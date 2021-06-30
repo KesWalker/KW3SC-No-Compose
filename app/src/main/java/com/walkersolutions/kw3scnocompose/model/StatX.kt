@@ -1,0 +1,6 @@
+package kw.cube.pokemon.model
+
+data class StatX(
+    val name: String,
+    val url: String
+)
